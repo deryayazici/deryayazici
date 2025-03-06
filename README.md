@@ -24,11 +24,11 @@ management and infrastructure operations.
 
       
 # Education
-- **Full Stack Coding Bootcamp** (Java Frameworks & Software Development)                                  ,Sep-Dec 2022, Tech Elevator                                                                             Pittsburgh, PA
+- **Full Stack Coding Bootcamp** (Java Programming & Software Development)                                  , Sep-Dec 2022, Tech Elevator                                                                             Pittsburgh, PA
 
-- **MA in Mathematics Teacher Education** (Mathematics & Pedagogy)                                        ,2010 - 2011, Ataturk University                                                                         Erzurum, Turkiye
+- **MA in Mathematics Teacher Education** (Mathematics & Pedagogy)                                        , 2010 - 2011, Ataturk University                                                                         Erzurum, Turkiye
 
-- **BSc in Mathematics** (Pure Mathematics & Computational Science)                                        ,2006 - 2010, Ataturk University                                                                         Erzurum, Turkiye 
+- **BSc in Mathematics** (Pure Mathematics & Computational Science)                                        , 2006 - 2010, Ataturk University                                                                         Erzurum, Turkiye 
 
 
 
