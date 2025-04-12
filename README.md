@@ -17,10 +17,12 @@ management and infrastructure operations.
 # Technical Skills
 
 - **Development & Scripting:**
-    - Java, Python, Spring Boot, HTML/CSS, JavaScript (Vue.js), Flask, PostgreSQL, RESTful APIs, PowerShell, YAML, Integration Testing, Responsive Design, Test-Driven Development (TDD), Unit Testing, Agile.
+    - Java, Python, Spring Boot, HTML/CSS, JavaScript (Vue.js), Flask, PostgreSQL, RESTful APIs,
+PowerShell, YAML, Integration Testing, Unit Testing, Responsive Design, Agile Methodologies.
       
 - **Cloud, Infrastructure & Tools:**
-    -  Ansible (Tower/AAP), AWS(Cloud Practitioner ), Azure(Fundamentals), Windows & Linux Administration, Infrastructure as a Code (IaC), CI/CD, Configuration Management, Server Automation, GitLab, Jira, ServiceNow, System Monitoring & Optimization.
+    -  Ansible (Tower/AAP, Configuration Management), AWS (Cloud Practitioner), Azure
+(Fundamentals), Windows and Linux Administration, Infrastructure as Code (IaC), CI/CD, Server Automation, GitLab, Jira, ServiceNow, System Monitoring and Optimization.
 
       
 # Education
